@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-size: 100%;
+    font-weight: normal;
+}
+
+/*h1, h2, h3, h4, h5, h6, p{
+    font-size:1em;
+}*/
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.75rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main{
+    font-size: 1em;
+}
